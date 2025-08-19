@@ -2,19 +2,6 @@
 
 This repository provides a comprehensive observability stack tailored for DevOps engineers. It integrates key tools like Prometheus, Grafana, cAdvisor, and Node Exporter to monitor, visualize, and manage your infrastructure and applications. Additionally, it includes a custom Notes App to demonstrate the observability stack in action.
 
-## Table of Contents
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Services](#services)
-- [Volumes](#volumes)
-- [Network](#network)
-- [Monitoring Setup](#monitoring-setup)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 In modern DevOps, observability is key to ensuring the health and performance of your applications and infrastructure. This repository sets up an observability stack that includes metrics collection, container monitoring, and real-time visualization.
 
